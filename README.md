@@ -5,4 +5,4 @@ This data set has around <b>319,800 rows</b> and <b>18 variables</b>: 9 boolean,
     <li>The strings include sex, race, and general health.</li>
     <li>The decimals include sleep time, bad physical health days in a month, and bad mental health days in a month.</li>
 </ul>
-From the data, the dependent variable (y) I'm trying to predict is `HeartDisease`, and the rest are feature variables. You can find more details of my work [here](https://github.com/minhtranmba/heart_disease_model_prediction/blob/main/Model_to_predict_heart_disease.ipynb)
+From the data, the dependent variable (y) I'm trying to predict is `HeartDisease`, and the rest are feature variables. You can find more details of my work [here](https://github.com/minhtranmba/heart_disease_model_prediction/blob/main/Model_to_predict_heart_disease.ipynb).
